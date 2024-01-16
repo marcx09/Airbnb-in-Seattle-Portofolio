@@ -16,9 +16,4 @@ property that people choose when they go vacation for homestays.
 Data Visualization that I create from SQL that I link to Excel for Visualization in Tableau. Github max upload file only 25MB so my excel file doesn't fit so i create link
 to access excel data in Gdrive: https://drive.google.com/drive/folders/1Nf_cTu5R0DFgJNU9SBbQbYBGV4c5MfYK?usp=sharing
 
-Excel Formula Used for Data Cleaning:
-- SUBSTITUTE
-- REPLACE
-- PROPER
-
 Notes: This portfolio is made based on my point of view if there are mistakes then I apologize and will try to correct them.
